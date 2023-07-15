@@ -15,7 +15,7 @@ body {
 }
 
 body {
-  background-color: #f3f2f2;
+  background-color: #51546e;
 }
 
 /* width */
@@ -83,12 +83,12 @@ a.text-orange:hover {
 }
 
 .bg-error {
-  background-color: rgba(220, 53, 69, 0.1);
+  background-color: #fc4b0b;
   border-radius: 2em;
 }
 
 .bg-correct {
-  background-color: rgba(41, 168, 71, 0.1);
+  background-color: #5dd693;
   border-radius: 2em;
 }
 
@@ -296,7 +296,7 @@ a.text-orange:hover {
           align-items: center;
   text-transform: uppercase;
   text-align: center;
-  background-color: #4272d7;
+  background-color: #51546e;
   color: #fff;
   padding: 0 15px;
   height: 43px;
@@ -518,7 +518,7 @@ li {
   -webkit-margin-start: -10px;
   z-index: 90;
   /*padding: 0.4rem 1rem;*/
-  background: #f5f5f5;
+  background: #b0b3d1;
   -webkit-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.1);
   box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.1);
   -webkit-transition: 0.3s;
@@ -887,7 +887,7 @@ hr {
   z-index: 100;
   overflow-y: auto;
   resize: horizontal;
-  background-color: #fff;
+  background-color: #999ecc;
   -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
   box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.16), 0px 2px 10px 0px rgba(0, 0, 0, 0.12);
   -webkit-transition: 0.3s;
