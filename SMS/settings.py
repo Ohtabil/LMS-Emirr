@@ -121,11 +121,11 @@ ASGI_APPLICATION = "SMS.asgi.application"
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': env('DB_NAME'),
-        'USER': env('DB_USER'),
-        'PASSWORD': env('DB_PASSWORD'),
-        'HOST': env('DB_HOST'),
-        'PORT': env('DB_PORT'),
+        'NAME': ('london'),
+        'USER': ('postgres'),
+        'PASSWORD': ('2020'),
+        'HOST': ('localhost'),
+        'PORT': ('5432'),
     }
 }
 
